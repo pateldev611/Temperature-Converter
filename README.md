@@ -1,2 +1,2 @@
 # Tempreature Converter
-It converts celsius to farenhite and vice versa
+It converts celcius to farenhiet and vice versa
