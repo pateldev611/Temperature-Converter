@@ -1,2 +1,2 @@
-# Tempreature Converter
+# Temperature Converter
 It converts celcius to farenheit and vice versa
